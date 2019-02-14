@@ -22,11 +22,13 @@
 
 🔧 Fixes:
 
-- Pull Request Title goes here
+- Update \_summary-list.scss
 
-  Description goes here (optional)
+  Minor CSS code change to prevent wrapping mid-word for most browsers
 
-  ([PR #N](https://github.com/alphagov/govuk-frontend/pull/N))
+  PR 1185 (https://github.com/alphagov/govuk-frontend/pull/1185)
+  
+  Thanks to [Malcolm Butler](https://github.com/MoJ-Longbeard) for raising this issue.
 
 ## 2.7.0 (Feature release)
 
